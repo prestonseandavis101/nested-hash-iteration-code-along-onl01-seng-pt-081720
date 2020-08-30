@@ -15,6 +15,8 @@ require 'pry'
   # }
   
 def remove_strawberry
-  
+  ontacts.each do |person, contact_details_hash|
+  binding.pry
+end
 
 end
