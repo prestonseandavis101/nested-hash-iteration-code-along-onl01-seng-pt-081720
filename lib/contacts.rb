@@ -26,4 +26,3 @@ def remove_strawberry
   end
 end
 
-end
